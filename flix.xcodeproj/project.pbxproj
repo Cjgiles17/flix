@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		2C7DEFC9220259FF00950E17 /* MovieDetailsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2C7DEFC8220259FF00950E17 /* MovieDetailsViewController.swift */; };
 		2CE408D921FE71050045D0E6 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2CE408D821FE71050045D0E6 /* AppDelegate.swift */; };
 		2CE408DB21FE71050045D0E6 /* MoviesViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2CE408DA21FE71050045D0E6 /* MoviesViewController.swift */; };
 		2CE408DE21FE71050045D0E6 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 2CE408DC21FE71050045D0E6 /* Main.storyboard */; };
@@ -39,6 +40,7 @@
 
 /* Begin PBXFileReference section */
 		2B10AEC18B426432141292AA /* Pods-flixUITests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-flixUITests.release.xcconfig"; path = "Pods/Target Support Files/Pods-flixUITests/Pods-flixUITests.release.xcconfig"; sourceTree = "<group>"; };
+		2C7DEFC8220259FF00950E17 /* MovieDetailsViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MovieDetailsViewController.swift; sourceTree = "<group>"; };
 		2CE408D521FE71050045D0E6 /* flix.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = flix.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		2CE408D821FE71050045D0E6 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		2CE408DA21FE71050045D0E6 /* MoviesViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MoviesViewController.swift; sourceTree = "<group>"; };
@@ -129,6 +131,7 @@
 				2CE408D821FE71050045D0E6 /* AppDelegate.swift */,
 				2CE408DA21FE71050045D0E6 /* MoviesViewController.swift */,
 				2CE408DC21FE71050045D0E6 /* Main.storyboard */,
+				2C7DEFC8220259FF00950E17 /* MovieDetailsViewController.swift */,
 				2CE4090621FE78000045D0E6 /* MovieCell.swift */,
 				2CE408DF21FE71060045D0E6 /* Assets.xcassets */,
 				2CE408E121FE71060045D0E6 /* LaunchScreen.storyboard */,
@@ -396,6 +399,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				2C7DEFC9220259FF00950E17 /* MovieDetailsViewController.swift in Sources */,
 				2CE4090721FE78000045D0E6 /* MovieCell.swift in Sources */,
 				2CE408DB21FE71050045D0E6 /* MoviesViewController.swift in Sources */,
 				2CE408D921FE71050045D0E6 /* AppDelegate.swift in Sources */,
